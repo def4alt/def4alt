@@ -1,16 +1,22 @@
-## Hi there 👋
+## Andrii Olkhovych
 
-<!--
-**def4alt/def4alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+— Founding Intern.
 
-Here are some ideas to get you started:
+Eventually: Forward Deployed Human (a.k.a. human-as-a-service).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+
+\- Successfully filed a tax declaration in Germany.\
+\- Over-engineered in Factorio.\
+\- The Witcher 3 - 100%\
+\- Put a cat on a shotgun.\
+\- Made Kubernetes necessary by believing hard enough.
+
+## Currently Learning
+
+\- Distributed systems\
+\- Computational neuroscience\
+\- Sun and Steel\
+\- Existence
+
+## Known works
