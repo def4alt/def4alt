@@ -16,7 +16,7 @@ Eventually: Forward Deployed Human (a.k.a. human-as-a-service).
 
 \- Distributed systems\
 \- Computational neuroscience\
-\- Sun and Steel\
+\- Sun and Steel, minus the ending\
 \- Existence
 
 ## Known works
